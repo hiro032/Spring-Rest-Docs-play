@@ -1,2 +1,2 @@
 # Spring-Rest-Docs-play
-💫Spring Rest Docs practice repo
+💫Spring Rest Docs practice repository
